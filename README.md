@@ -1,6 +1,6 @@
-Olá! Eu sou Gabriel Lourenço �🖐
+Olá! Eu sou Gabriel Lourenço ✌
+Sou apaixonado por programação!😍
     
--📚 I’m currently learning C# e .Net
 
 <div align="center">
   <a href="https://github.com/Lourenco-biel">
