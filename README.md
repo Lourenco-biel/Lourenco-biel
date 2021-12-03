@@ -18,3 +18,5 @@ Olá! Eu sou Gabriel Lourenço �🖐
   <a href = "mailto:lourencogabriel77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-louren%C3%A7o-749b78198" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <div>
+
+     ![Snake animation](https://github.com/Lourenco-biel/Lourenco-biel/blob/output/github-contribution-grid-snake.svg)
