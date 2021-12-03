@@ -1,6 +1,9 @@
 Olá! Eu sou Gabriel Lourenço ✌
+</div>
 Sou apaixonado por programação!😍
-    
+    <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+
 
 <div align="center">
   <a href="https://github.com/Lourenco-biel">
