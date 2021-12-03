@@ -1,6 +1,6 @@
 Olá! Eu sou Gabriel Lourenço ✌
 </div>
-Apaixonado por programação!😍
+Apaixonado por programação!🤩
     <div style="display: inline_block"><br>
 <div style="display: inline_block"><br>
 
