@@ -1,5 +1,5 @@
 
-Olá! Eu sou Gabriel Lourenço, sou um Dev-Front End apaixonado por tecnologia!
+Olá! Eu sou Gabriel Lourenço, sou um Full Stack apaixonado por tecnologia!
 
 Meu objetivo é me tornar um Full-Stack onde imaginação e criatividade se transformam em código.
 
