@@ -1,5 +1,5 @@
 
-Olá! Eu sou Gabriel Lourenço, sou um Desenvolvedor Full Stack apaixonado por tecnologia!
+Olá! Eu sou Gabriel Lourenço, sou um Desenvolvedor Front-end apaixonado por tecnologia!
 
 
 </div>
