@@ -1,7 +1,6 @@
 
 Olá! Eu sou Gabriel Lourenço, sou um Desenvolvedor Full Stack apaixonado por tecnologia!
 
-Meu objetivo é me tornar um Full-Stack onde imaginação e criatividade se transformam em código.
 
 </div>
     <div style="display: inline_block"><br>
