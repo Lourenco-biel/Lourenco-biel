@@ -59,5 +59,5 @@ Passionate and results-oriented Frontend Engineer with 3 years of dedicated expe
 <a href="https://www.linkedin.com/in/gabriel-ibiapino-749b78198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  <div>
 
-![Snake animation](https://github.com/Lourenco-biel/Lourenco-biel/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/SEU_USUARIO/REPO/output/github-contribution-grid-snake.svg)
 </div>
