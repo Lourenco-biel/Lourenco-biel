@@ -1,3 +1,4 @@
+<h2>About me:</h2>
 
 Passionate and results-oriented Frontend Engineer with 3 years of dedicated experience in developing, scaling, and maintaining high-quality web applications. I possess in-depth knowledge in architecting and implementing robust solutions for complex product, people, and order management systems, particularly within dynamic sectors like restaurant chains and data intelligence. My expertise lies in leveraging modern technologies such as React.js, Next.js, and TypeScript to deliver impactful, user-centric products that drive business growth and enhance user engagement.
 
