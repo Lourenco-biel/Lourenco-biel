@@ -1,7 +1,5 @@
 
-Olá! Eu sou Gabriel Lourenço, sou um Desenvolvedor Front-end apaixonado por tecnologia!
-
-Meu objetivo é me tornar um Full-Stack onde imaginação e criatividade se transformam em código.
+Passionate and results-oriented Frontend Engineer with 3 years of dedicated experience in developing, scaling, and maintaining high-quality web applications. I possess in-depth knowledge in architecting and implementing robust solutions for complex product, people, and order management systems, particularly within dynamic sectors like restaurant chains and data intelligence. My expertise lies in leveraging modern technologies such as React.js, Next.js, and TypeScript to deliver impactful, user-centric products that drive business growth and enhance user engagement.
 
 
 </div>
@@ -32,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 <div> 
     <h2>Conecte-se comigo:</h2>
      
-  <a href = "mailto:lourencogabriel77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:lourencogabriel77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-ibiapino-louren%C3%A7o-da-silva-749b78198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  <div>
 
