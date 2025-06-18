@@ -6,6 +6,22 @@ Passionate and results-oriented Frontend Engineer with 3 years of dedicated expe
 
 <h2>Tecnologias:</h2>
 
+Core: JavaScript (ES6+), TypeScript, Python, Node.js, HTML5, CSS3
+
+Frontend: React.js, Next.js, Redux (Saga, Toolkit, Thunk, Core), React Query, Sass, Styled-Components, Mui Material, Reactstrap, Responsive Design, Accessibility (A11Y), SEO
+
+Backend & APIs: Node.js, Django, RESTful APIs (Design & Integration), PowerBi-embedded
+Databases: MongoDB, PostgreSQL
+
+DevOps & Tools: Docker, CI/CD (GitLab CI), Git, GitLab, Figma, Miro, Insomnia, Postbird
+Testing: Unit, Integration & E2E Testing (Jest, Cypress)
+
+Methodologies & Principles: Agile, Scrum, SOLID, OOP, Design Patterns
+
+Languages: Portuguese (Native), English (Professional Working Proficiency), Spanish (Elementary)
+
+Soft Skills: Communication, Conflict Resolution (Note: Best demonstrated via experience)
+
 <!-- Core -->
 <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
