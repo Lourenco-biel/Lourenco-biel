@@ -12,6 +12,7 @@ Core: JavaScript (ES6+), TypeScript, Python, Node.js, HTML5, CSS3
 Frontend: React.js, Next.js, Redux (Saga, Toolkit, Thunk, Core), React Query, Sass, Styled-Components, Mui Material, Reactstrap, Responsive Design, Accessibility (A11Y), SEO
 
 Backend & APIs: Node.js, Django, RESTful APIs (Design & Integration), PowerBi-embedded
+
 Databases: MongoDB, PostgreSQL
 
 DevOps & Tools: Docker, CI/CD (GitLab CI), Git, GitLab, Figma, Miro, Insomnia, Postbird
